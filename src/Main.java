@@ -9,5 +9,6 @@ public class Main {
         System.out.println("7-qator");
         System.out.println("8-qator");
         System.out.println("9-qator");
+        System.out.println("10-qator");
     }
 }
